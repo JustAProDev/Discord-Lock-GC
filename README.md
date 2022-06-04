@@ -6,7 +6,7 @@ Working on an AntiBan,Mute,LockChannel etc ... On servers. But I dont leak it ye
 
 How to use :
 
-Put your token in " yourtokenhere " and launch it ( line 8 )
+Replace " yourtokenhere " by your Discord Token and launch it ( line 8 )
 
 The Command is " ;lock GroupChatID "
 To unlock it " ;unlock GroupChatID "
