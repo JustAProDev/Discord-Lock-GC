@@ -14,6 +14,7 @@ To unlock it " ;unlock GroupChatID "
 
 to take a groupchat id, just right click on the group chat and do " Copy ID " or search on google.
 
+You will also need Python to use it but if your not dumb you know that. Just watch a YT video or ask help.
 example : " ;lock 982665203420385281 "
 
 It will take 120 seconds to unlock because it rate limit a request.
