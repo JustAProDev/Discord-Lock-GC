@@ -6,10 +6,12 @@ Working on an AntiBan,Mute,LockChannel etc ... On servers. But I dont leak it ye
 
 How to use :
 
-Put your token in " yourtokenhere " and launch it
+Put your token in " yourtokenhere " and launch it ( line 8 )
 
 The Command is " ;lock GroupChatID "
 To unlock it " ;unlock GroupChatID "
+
+to take a groupchat id, just right click on the group chat and do " Copy ID " or search on google.
 
 example : " ;lock 982665203420385281 "
 
