@@ -1,7 +1,4 @@
 # Discord-Lock-GC
-
-IQ Require to use it : 98
-
 What it do :
 
 Basicly you cant Kick or Add anyone in a groupchat ( you dont need gc crown ) . You can add only by 1 way, you need to find it tho x).
