@@ -2,6 +2,8 @@
 What it do :
 
 Basicly you cant Kick or Add anyone in a groupchat ( you dont need gc crown ) . You can add only by 1 way, you need to find it tho x).
+Working on an AntiLeave
+I made AntiBan AntiKick,Mute , Lock Channel in servers etc ... But I dont leak yet x)
 
 The rule is simple :
 
