@@ -10,7 +10,7 @@ The only real creator is me. I created that method. And I have way more to share
 
 
 How to use :
-Put your token in " enteryourtokenhere " and launch it
+Put your token in " yourtokenhere " and launch it
 
 The Command is " ;lock GroupChatID "
 To unlock it " ;unlock GroupChatID "
