@@ -19,5 +19,5 @@ It will take 120 seconds to unlock because it rate limit a request.
 
 
 
-A selfbot made by me Yurei#9999 !
+A selfbot made by Me : Discord : " ????#???? "
 The only real creator is me. I created that method. And I have way more to share you x)
