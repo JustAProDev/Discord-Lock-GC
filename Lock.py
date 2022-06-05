@@ -7,7 +7,7 @@ from discord.utils import get
 
 token = "yourtokenhere"
 
-DiscordHacks = commands.Bot(description='Yurei', command_prefix=';', self_bot=True)
+DiscordHacks = commands.Bot(description='DiscordHacks', command_prefix=';', self_bot=True)
 
 DiscordHacks.lockgc = []
 DiscordHacks.headers = {
