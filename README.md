@@ -1,7 +1,6 @@
 # Discord-Lock-GC
 
-TO HAVE IT DM ME, TO MANY PEOPLE DONT UNDERSTAND THE TUTORIAL SO I WILL MAKE IT FOR U !
-
+Enjoy !
 
 What it do :
 
